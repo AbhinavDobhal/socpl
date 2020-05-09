@@ -17,10 +17,10 @@ function Home() {
               for your business!
             </h2>
             <div>
-              <a href="#about" className="btn-get-started scrollto">
+              <a href="/about" className="btn-get-started scrollto">
                 Get Started
               </a>
-              <a href="#services" className="btn-services scrollto">
+              <a href="/services" className="btn-services scrollto">
                 Our Services
               </a>
             </div>

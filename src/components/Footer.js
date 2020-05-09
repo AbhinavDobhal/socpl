@@ -29,10 +29,10 @@ function Footer() {
                   <a href="/service">Services</a>
                 </li>
                 <li>
-                  <a href="#">Terms of service</a>
+                  <a href="/team">Team</a>
                 </li>
                 <li>
-                  <a href="#">Privacy policy</a>
+                  <a href="/jobs">Jobs</a>
                 </li>
               </ul>
             </div>
