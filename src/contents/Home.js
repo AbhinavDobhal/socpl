@@ -1,4 +1,4 @@
-import React, { Fragment } from "react";
+import React from "react";
 import IntroImg from "../assets/img/intro-img.svg";
 function Home() {
   return (
