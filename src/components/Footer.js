@@ -39,8 +39,8 @@ function Footer() {
             <div className="col-lg-3 col-md-6 footer-contact">
               <h4>Contact Us</h4>
               <p>
-                Sun Outsource Consultancy Private Limited <br />
-                Registered Office : 27 Araghar, Prem Complex, <br />
+                Sun Outsource Consultancy Pvt Ltd <br />
+                27 Araghar, Prem Complex, <br />
                 1st Floor, Haridwar Road, Dehradun
                 <br />
                 India <br />
