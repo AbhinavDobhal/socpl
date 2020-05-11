@@ -7,7 +7,7 @@ function Footer() {
         <div className="container">
           <div className="row">
             <div className="col-lg-4 col-md-6 footer-info">
-              <h4>Sun Outsource Consultancy PVT</h4>
+              <h4>Sun Outsource Consultancy Pvt Ltd</h4>
               <p>
                 Incorporated in 2013, Sun Outsource Consultancy (SOC) has
                 continued to build on its resource with emphasis on its quality
@@ -39,8 +39,8 @@ function Footer() {
             <div className="col-lg-3 col-md-6 footer-contact">
               <h4>Contact Us</h4>
               <p>
-                Sun Outsource Consultancy Private Limited Registered Office : 27
-                Araghar, Prem Complex, <br />
+                Sun Outsource Consultancy Private Limited <br />
+                Registered Office : 27 Araghar, Prem Complex, <br />
                 1st Floor, Haridwar Road, Dehradun
                 <br />
                 India <br />
